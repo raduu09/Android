@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CATALOG>
-<VIZITATE>
-<TARA>Franta</TARA>
-<ORAS>Paris</ORAS>
-<LOC>Piata mare</LOC>
-<AGENTIE>Columbus Travel</AGENTIE>
-<PRET>10.90</PRET>
-<AN>2015</AN>
-</CD>
-<CD>
-<TARA>Italia</TARA>
-<ORAS>ROMA</ORAS>
-<LOC>Centrul Vechi</LOC>
-<AGENTIE>CBS TRAVEL</AGENTIE>
-<PRET>9.90</PRET>
-<AN>2016</AN>
-</VIZITATE>
+	<VIZITATE>
+		<TARA>Franta</TARA>
+		<ORAS>Paris</ORAS>
+		<LOC>Piata mare</LOC>
+		<AGENTIE>Columbus Travel</AGENTIE>
+		<PRET>10.90</PRET>
+		<AN>2015</AN>
+	</VIZITATE>
+	<VIZITATE>
+		<TARA>Italia</TARA>
+		<ORAS>ROMA</ORAS>
+		<LOC>Centrul Vechi</LOC>
+		<AGENTIE>CBS TRAVEL</AGENTIE>
+		<PRET>9.90</PRET>
+		<AN>2016</AN>
+	</VIZITATE>
 </CATALOG>
