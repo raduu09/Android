@@ -1,19 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<CATALOG>
-	<VIZITATE>
-		<TARA>Franta</TARA>
-		<ORAS>Paris</ORAS>
-		<LOC>Piata mare</LOC>
-		<AGENTIE>Columbus Travel</AGENTIE>
-		<PRET>10.90</PRET>
-		<AN>2015</AN>
-	</VIZITATE>
-	<VIZITATE>
-		<TARA>Italia</TARA>
-		<ORAS>ROMA</ORAS>
-		<LOC>Centrul Vechi</LOC>
-		<AGENTIE>CBS TRAVEL</AGENTIE>
-		<PRET>9.90</PRET>
-		<AN>2016</AN>
-	</VIZITATE>
-</CATALOG>
+<?xml version="1.0"?>
+<catalog>
+   <locatie>
+      <denumire>Petra</denumire>
+      <tara>Iordan</tara>
+      <buget>50000</buget>
+   </locatie>
+	
+   <locatie>
+      <denumire>Gopal </denumire>
+      <tara>Varma</tara>
+      <buget>60000</buget>
+   </locatie>
+	
+   <locatie>
+      <denumire>Raja</denumire>
+      <tara>Hr</tara>
+      <buget>70000</buget>
+   </locatie>
+	
+</catalog>
